@@ -1,0 +1,1 @@
+!function(o){const n=((window||{})._da11y||{}).active_outline_color||!1;n&&o(document).on("focusin",'input,button,a[role="tab"]',(function(){const t=o(this);setTimeout((function(){t.is(".keyboard-outline")&&t.css("outline-color",n)}))}))}(jQuery);
