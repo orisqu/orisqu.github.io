@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 252.44 36.38"
+   viewBox="0 0 310.44 36.38"
    version="1.1"
    id="svg8"
    sodipodi:docname="old_deep_turtle.svg"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   width="310.44"
+   height="36.380001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,31 +22,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.3968906"
-     inkscape:cx="125.78797"
-     inkscape:cy="17.939909"
+     inkscape:zoom="1.3641722"
+     inkscape:cx="132.31467"
+     inkscape:cy="24.923539"
      inkscape:window-width="1312"
      inkscape:window-height="449"
-     inkscape:window-x="118"
-     inkscape:window-y="521"
+     inkscape:window-x="15"
+     inkscape:window-y="232"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg8"
      showguides="false" />
   <text
      xml:space="preserve"
-     style="font-size:34.9237px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ec6552;fill-opacity:1;stroke:#ec6552;stroke-width:1.05935;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     x="4.769453"
-     y="28.969362"
+     style="font-size:33.5349px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ec6552;fill-opacity:1;stroke:#ec6552;stroke-width:1.01722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     x="3.9285035"
+     y="31.372128"
      id="text8"
-     transform="scale(1.0309577,0.96997188)"><tspan
+     transform="scale(1.0377747,0.96360031)"><tspan
        sodipodi:role="line"
        id="tspan8"
-       x="4.769453"
-       y="28.969362"
-       style="stroke-width:1.05935">Anvil Insights</tspan><tspan
+       x="3.9285035"
+       y="31.372128"
+       style="stroke-width:1.01722">Anvil Innovations</tspan><tspan
        sodipodi:role="line"
-       x="4.769453"
-       y="28.969362"
-       style="stroke-width:1.05935"
+       x="3.9285035"
+       y="31.372128"
+       style="stroke-width:1.01722"
        id="tspan1" /></text>
 </svg>
